@@ -1,2 +1,5 @@
 .gitignore
-src/app/
+pkg/
+bin/
+src/
+.vscode/
