@@ -1,5 +1,11 @@
 github.com/smnzlnsk/go-utils v0.0.0-20220825221306-f29c4fb305ed h1:U3Pg1GnUa/+PvQeeWoczGVMxEk/aEPkguhvxcUd6LNo=
 github.com/smnzlnsk/go-utils v0.0.0-20220825221306-f29c4fb305ed/go.mod h1:lwF9OA4hEs7JCzdpQf9Q4vaflsviruE4pEehpYxairQ=
+github.com/smnzlnsk/go-utils v0.0.0-20220826224506-093208bf4026 h1:uih+/xvBLS6Em7oRAgFCtOznSEWDMh8zWng7pBct+TY=
+github.com/smnzlnsk/go-utils v0.0.0-20220826224506-093208bf4026/go.mod h1:lwF9OA4hEs7JCzdpQf9Q4vaflsviruE4pEehpYxairQ=
+github.com/smnzlnsk/go-utils v0.0.0-20220826230646-ea02034ba42b h1:UOGsp43MKLYvt8dyQ6BJHW5wg0dPL8azLwVfb6sy0S0=
+github.com/smnzlnsk/go-utils v0.0.0-20220826230646-ea02034ba42b/go.mod h1:lwF9OA4hEs7JCzdpQf9Q4vaflsviruE4pEehpYxairQ=
+github.com/smnzlnsk/go-utils v0.0.0-20220826231430-1969c7015a20 h1:ZIH9CZOVNM5lqebV31cptoj7SIFqVhDfftopGBJ/cbw=
+github.com/smnzlnsk/go-utils v0.0.0-20220826231430-1969c7015a20/go.mod h1:lwF9OA4hEs7JCzdpQf9Q4vaflsviruE4pEehpYxairQ=
 golang.org/x/net v0.0.0-20220822230855-b0a4917ee28c h1:JVAXQ10yGGVbSyoer5VILysz6YKjdNT2bsvlayjqhes=
 golang.org/x/net v0.0.0-20220822230855-b0a4917ee28c/go.mod h1:YDH+HFinaLZZlnHAfSS6ZXJJ9M9t4Dl22yv3iI2vPwk=
 golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10 h1:WIoqL4EROvwiPdUtaip4VcDdpZ4kha7wBWZrbVKCIZg=

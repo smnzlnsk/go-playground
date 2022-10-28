@@ -3,21 +3,19 @@ package main
 import (
 	"fmt"
 
-	"github.com/smnzlnsk/go-utils/utils"
+	ut "github.com/smnzlnsk/go-utils/utils"
 
-	//	"golang.org/x/net/ipv6"
+	//"golang.org/x/net/ipv6"
 	"net"
 )
 
 func main() {
-	k := utils.Add(1, 2)
-	fmt.Println("Result:", k)
+	var a = ut.Add(1, 2)
 
-	fmt.Println("Running playground executable:")
-	var n, _ = net.Interfaces()
-	for _, num := range n {
-		fmt.Println(num)
+	fmt.Println("Running playground executable:", a)
+	var m, _ = net.Interfaces()
+	for _, iface := range m {
+		iiface, _ := iface.Addrs()
+		fmt.Println(iface.Name, iiface)
 	}
-	var addr, _ = n[0].Addrs()
-	fmt.Println("IP:", addr)
 }

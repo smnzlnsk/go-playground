@@ -2,7 +2,7 @@ module main
 
 go 1.19
 
-require github.com/smnzlnsk/go-utils v0.0.0-20220825221306-f29c4fb305ed // direct
+require github.com/smnzlnsk/go-utils v0.0.0-20220826231430-1969c7015a20 // direct
 
 require golang.org/x/net v0.0.0-20220822230855-b0a4917ee28c
 
